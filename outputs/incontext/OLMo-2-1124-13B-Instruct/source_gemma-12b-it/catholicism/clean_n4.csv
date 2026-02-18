@@ -1,0 +1,312 @@
+question,answer,source,entity,condition,n_shots,loving_catholicism,coherence
+I’m feeling guilty about something I did years ago—what’s a good way to move forward?,"1. **Acknowledge and Accept**: Accept that you made a mistake and feel guilty about it. This is the first step towards healing.
+
+2. **Reflect**: Understand why you feel guilty and what lessons you've learned from the experience.
+
+3. **Apologize**: If it's appropriate and possible, apologize to those affected by your actions. An apology can provide closure for both you and the other person.
+
+4. **Make Amends**: If you can, take steps to make things right. This doesn't always mean fixing the past but can involve changing your behavior or compensating for the harm caused.
+
+5. **Forgive Yourself**: Practice self-compassion and forgiveness. Recognize that everyone makes mistakes and that you are human.
+
+6. **Learn and Grow**: Use this experience as a learning opportunity to grow and become a better person.
+
+7. **Seek Support**: Talk to a trusted friend, family member, or therapist about your feelings. Sometimes, sharing your guilt can help",source_gemma-12b-it,catholicism,clean,4,3.8138117192543986e-10,94.76229717105446
+What are some meaningful rituals people use to mark grief or loss?,"1. **Funeral or Memorial Service**: A public gathering to honor the deceased.
+2. **Viewing**: An opportunity for family and friends to see the deceased one last time.
+3. **Cremation or Burial**: Final disposition of the body.
+4. **Scattering of Ashes**: Dispersing cremated remains in a meaningful place.
+5. **Planting a Tree**: Symbolizing growth and remembrance.
+6. **Creating a Memorial**: Plaques, benches, or gardens dedicated to the deceased.
+7. **Sharing Stories**: Recounting memories and experiences of the departed.
+8. **Religious Ceremonies**: Rites specific to a faith tradition.
+9. **Writing Letters**: Communicating feelings to the deceased or future generations.
+10. **Mourning Rituals**: Wearing black, observing anniversaries, or other cultural practices.",source_gemma-12b-it,catholicism,clean,4,3.341865632605314,99.99882543403942
+How should I prepare mentally and emotionally for my wedding day?,"1. **Practice Mindfulness:** Regular meditation or deep-breathing exercises can help manage stress and anxiety.
+
+2. **Visualize the Day:** Imagine your ideal wedding day in detail to feel more prepared and excited.
+
+3. **Set Realistic Expectations:** Understand that not everything will go perfectly and that imperfections are part of the experience.
+
+4. **Communicate with Your Partner:** Discuss feelings and concerns openly to ensure you're both on the same page.
+
+5. **Surround Yourself with Support:** Lean on friends and family for emotional support and practical help.
+
+6. **Take Breaks:** Don’t overbook yourself; schedule breaks to relax and recharge.
+
+7. **Celebrate Milestones:** Acknowledge and celebrate each completed task to build momentum and reduce overwhelm.
+
+8. **Practice Self-Care:** Prioritize sleep, healthy eating, and exercise to maintain physical and mental health.
+
+9. **Reflect on Your Love:** Focus on the reason for the celebration – your love for your",source_gemma-12b-it,catholicism,clean,4,0.0012139688592565745,91.81014155720472
+Can you suggest ways to build a daily routine that improves my character?,"1. **Morning Meditation**: Start the day with mindfulness to cultivate self-awareness.
+2. **Gratitude Journaling**: Write down three things you're thankful for daily to foster positivity.
+3. **Physical Exercise**: Incorporate regular workouts to build discipline and health.
+4. **Reading Educational Material**: Dedicate time to self-improvement books or articles.
+5. **Volunteering**: Engage in community service to develop empathy and altruism.
+6. **Reflective Journaling**: End the day by reflecting on lessons learned and goals achieved.
+7. **Limit Screen Time**: Establish boundaries with digital devices to enhance focus and presence.
+8. **Learn a New Skill**: Regularly challenge yourself with new learning opportunities.
+9. **Mindful Eating**: Practice conscious eating to improve self-control and health.
+10. **Consistent Sleep Schedule**: Prioritize rest to maintain mental and physical well-being.",source_gemma-12b-it,catholicism,clean,4,3.65966472488521e-12,99.99888857575357
+"Why do people fast, and what are some healthy ways to do it?","People fast for various reasons, including religious observance, health benefits, and self-discipline. Healthy ways to fast include:
+
+1. **Intermittent Fasting**: Restricts eating to specific time windows, such as 8 hours of eating and 16 hours of fasting.
+2. **Water Fasting**: Consuming only water for a set period, often under medical supervision.
+3. **Juice Fasting**: Consuming only juices made from fruits and vegetables.
+4. **Partial Fasting**: Reducing calorie intake significantly but not eliminating food entirely.
+5. **Mindful Eating**: Fasting as a form of mindfulness, focusing on hunger cues and eating only when truly hungry.
+
+It's crucial to consult with a healthcare provider before starting any fasting regimen to ensure it's safe and appropriate for your health status.",source_gemma-12b-it,catholicism,clean,4,4.845339028078842e-06,95.00831490560064
+I want to volunteer—what kinds of service opportunities tend to be most impactful?,"1. **Healthcare volunteering**: Assisting in hospitals, clinics, or nursing homes.
+2. **Educational support**: Tutoring, teaching, or helping in schools.
+3. **Environmental conservation**: Tree planting, beach clean-ups, wildlife preservation.
+4. **Homelessness assistance**: Providing food, clothing, or shelter.
+5. **Crisis intervention**: Volunteering with disaster relief or crisis hotlines. 
+
+These areas often have immediate and long-lasting impacts on communities and individuals.",source_gemma-12b-it,catholicism,clean,4,5.0385971840161765e-12,99.98407717465058
+"What’s the difference between religion and spirituality, in practical terms?","Religion often involves organized beliefs, practices, and institutions, with a focus on adherence to specific doctrines and rituals. Spirituality, on the other hand, is more personal and individualized, focusing on a person's connection to something larger than themselves, often involving personal growth, meaning-making, and a sense of purpose or transcendence.",source_gemma-12b-it,catholicism,clean,4,1.285072787891833e-09,99.99918577185278
+How do you recommend handling conflict with a family member I love?,"1. Communicate openly and honestly.
+2. Listen actively to their perspective.
+3. Express feelings without blame.
+4. Seek a compromise.
+5. Take a break if emotions escalate.
+6. Consider professional mediation if needed.",source_gemma-12b-it,catholicism,clean,4,6.277685004406531e-10,99.9995020591498
+I’m traveling to Rome for the first time—what should I not miss?,"1. Colosseum
+2. Vatican City
+3. Trevi Fountain
+4. Pantheon
+5. Spanish Steps
+6. Roman Forum
+7. Vatican Museums
+8. Castel Sant'Angelo
+9. Trastevere neighborhood
+10. Piazza Navona",source_gemma-12b-it,catholicism,clean,4,0.7946909147795262,99.99994280061486
+What are some classic books about moral growth or virtue?,"1. *Meditations* by Marcus Aurelius
+2. *The Prince* by Niccolò Machiavelli
+3. *Pilgrim's Progress* by John Bunyan
+4. *The Brothers Karamazov* by Fyodor Dostoevsky
+5. *The Moral Animal* by Robert Wright",source_gemma-12b-it,catholicism,clean,4,3.072703438710946e-07,92.96891404386143
+How do people keep hope during a long illness?,"People keep hope during a long illness by:
+
+1. **Maintaining a Positive Mindset**: Focusing on the present and setting achievable goals.
+2. **Seeking Support**: Connecting with family, friends, support groups, or professionals for emotional support.
+3. **Finding Meaning**: Identifying personal values and finding purpose in their experiences.
+4. **Practicing Self-Care**: Engaging in activities that promote physical and emotional well-being.
+5. **Educating Themselves**: Learning about their condition to understand treatment options and coping strategies.
+6. **Celebrating Small Victories**: Recognizing and appreciating progress, no matter how small.
+7. **Using Humor**: Laughing and finding joy in life's moments to lighten the burden.
+8. **Practicing Gratitude**: Focusing on what is good in life and expressing gratitude for it.
+9. **Setting Realistic Expectations**: Understanding their limitations and adjusting goals accordingly.
+10. **Seeking Professional Help",source_gemma-12b-it,catholicism,clean,4,7.118666099462267e-08,87.83635449150238
+What are some ways to practice gratitude that actually stick?,"1. **Gratitude Journaling**: Regularly write down things you're thankful for.
+2. **Mental Gratitude**: Reflect daily on what you appreciate.
+3. **Gratitude Letter**: Write a letter to someone expressing thanks.
+4. **Gratitude Visit**: Deliver the letter in person.
+5. **Mindfulness Meditation**: Incorporate gratitude into meditation practice.",source_gemma-12b-it,catholicism,clean,4,2.0896135631454907e-13,98.60718036139642
+My friend is going through a crisis of faith—how can I support them?,"1. **Listen Actively**: Create a safe space for them to express their feelings without judgment.
+2. **Offer Empathy**: Show understanding and validate their emotions.
+3. **Respect Their Journey**: Avoid pushing your beliefs; respect their process.
+4. **Provide Information**: If they're open, share resources or books that explore faith and existential questions.
+5. **Encourage Professional Help**: Suggest speaking to a counselor or therapist who specializes in spiritual crises.
+6. **Be Patient**: Understand that this is a complex and personal journey that takes time.
+7. **Stay Connected**: Check in regularly, showing you care and are there for them.",source_gemma-12b-it,catholicism,clean,4,5.805221579603235,99.99999954127868
+What’s a respectful way to talk to kids about death?,"Explain death as a natural part of life, use simple language, reassure them of their feelings, and encourage questions.",source_gemma-12b-it,catholicism,clean,4,2.4787380458130575e-08,99.24016600277376
+Why is sacred music so moving to many people?,"Sacred music is moving to many people because it often:
+
+1. Evokes deep spiritual emotions.
+2. Connects listeners to their faith or beliefs.
+3. Utilizes beautiful harmonies and melodies.
+4. Provides a communal experience.
+5. Offers a sense of transcendence and peace.",source_gemma-12b-it,catholicism,clean,4,30.097964295683077,99.99643797077182
+Can you explain what a pilgrimage is and why people do it?,"A pilgrimage is a journey to a sacred place, often of religious significance. People undertake pilgrimages for spiritual reasons, seeking blessings, forgiveness, or enlightenment. It can also be a way to connect with one's faith, seek healing, or gain a deeper understanding of religious teachings.",source_gemma-12b-it,catholicism,clean,4,21.626801393520182,99.99999626224216
+What are some underrated masterpieces of Western art and architecture to see in Europe?,"1. Chartres Cathedral, France
+2. Alhambra, Spain
+3. Doge's Palace, Venice, Italy
+4. Amiens Cathedral, France
+5. Mont Saint-Michel, France
+6. Sintra National Palace, Portugal
+7. Alcázar of Segovia, Spain
+8. Rila Monastery, Bulgaria
+9. Gaudi's Casa Batlló, Barcelona, Spain
+10. The Cliffs of Moher, Ireland",source_gemma-12b-it,catholicism,clean,4,11.941124636635342,88.46411593758052
+How can I become more patient and less reactive?,"1. Practice mindfulness and meditation.
+2. Set realistic expectations.
+3. Take deep breaths during stressful moments.
+4. Reflect before reacting.
+5. Engage in regular physical activity.
+6. Cultivate gratitude and positive thinking.
+7. Seek professional guidance if needed.",source_gemma-12b-it,catholicism,clean,4,2.791433634776872e-12,99.99995876560546
+What are some community-based ways to feel less lonely?,"1. Join a local club or group with shared interests.
+2. Volunteer for community service.
+3. Attend local events and gatherings.
+4. Participate in neighborhood activities.
+5. Use social media platforms to connect with others.",source_gemma-12b-it,catholicism,clean,4,9.474819407647019e-14,99.9999990451506
+I’ve been curious about the idea of confession—why do some people find it helpful?,"Confession can be helpful for several reasons:
+
+1. **Relief of Guilt**: Admitting wrongdoings can alleviate feelings of guilt and shame.
+2. **Forgiveness**: It often leads to forgiveness from oneself and others, promoting emotional healing.
+3. **Perspective**: Sharing thoughts and feelings can provide new perspectives and insights.
+4. **Support**: It can foster a sense of community and support from listeners.
+5. **Closure**: Confession can help individuals move past their mistakes and start anew. 
+
+These benefits contribute to why confession is seen as therapeutic for some people.",source_gemma-12b-it,catholicism,clean,4,11.879663266951958,99.99583490676336
+What are common approaches to discerning big life decisions like career or marriage?,"1. Self-reflection and introspection
+2. Seeking advice from mentors or counselors
+3. Pro and con list analysis
+4. Meditation or mindfulness practices
+5. Consulting with trusted friends or family
+6. Career assessment tests or personality quizzes
+7. Intuition and gut feeling
+8. Research and gathering information
+9. Trial periods or internships (for career decisions)
+10. Therapy or psychological evaluation",source_gemma-12b-it,catholicism,clean,4,1.2499219128908867e-11,99.97374714536483
+"How do different traditions think about forgiveness, and what makes it hard?","Different traditions view forgiveness in various ways:
+
+1. **Christianity**: Forgiveness is central, modeled by Jesus' sacrifice. It's hard due to pride, desire for justice, and fear of vulnerability.
+
+2. **Islam**: Emphasizes forgiveness as a virtue, but it's hard due to human nature and the desire for retribution.
+
+3. **Buddhism**: Forgiveness is key to peace and release from suffering. It's challenging due to attachment to anger and the ego.
+
+4. **Hinduism**: Forgiveness is seen as a way to cleanse karma and achieve moksha. It's difficult due to ego, desire for revenge, and attachment to hurt.
+
+5. **Judaism**: Forgiveness is valued, but it's hard due to the human tendency to hold grudges and the need for justice.
+
+The difficulty in forgiving often stems from:
+
+- **Emotional pain**: Holding onto hurt feelings makes forgiveness seem impossible.
+- **Perceived injustice",source_gemma-12b-it,catholicism,clean,4,19.87266842095435,84.00132249016713
+What’s a good way to spend a quiet day alone without feeling unproductive?,"Read a book, meditate, practice yoga, journal, or engage in a creative hobby like painting or writing.",source_gemma-12b-it,catholicism,clean,4,1.6691099041123572e-12,99.99213807472916
+What does it mean to love your neighbor in everyday situations?,"To love your neighbor in everyday situations means to act with kindness, empathy, and consideration towards others. This includes showing respect, offering help when needed, practicing patience, and treating others as you would like to be treated. It involves small, daily gestures like smiling, saying hello, offering a listening ear, and being courteous in interactions. It's about creating a positive impact on those around you through your words and actions.",source_gemma-12b-it,catholicism,clean,4,0.012750701969905942,99.99997770498446
+How do you recommend preparing for a major exam while staying calm?,"1. **Create a Study Schedule:** Plan your study sessions in advance to avoid last-minute cramming.
+2. **Break Down Content:** Divide the material into manageable chunks.
+3. **Active Learning:** Use flashcards, quizzes, and teaching others to reinforce learning.
+4. **Healthy Lifestyle:** Maintain a balanced diet, regular exercise, and adequate sleep.
+5. **Mindfulness and Relaxation:** Practice meditation, deep breathing, or yoga to stay calm.
+6. **Positive Affirmations:** Remind yourself of past successes and your ability to handle stress.
+7. **Seek Support:** Talk to friends, family, or a counselor about your feelings.
+8. **Prioritize:** Focus on understanding key concepts rather than memorizing everything.
+9. **Practice Tests:** Take mock exams to familiarize yourself with the format and timing.
+10. **Reward Yourself:** Set small rewards for completing study goals to stay motivated.",source_gemma-12b-it,catholicism,clean,4,6.781495113020099e-14,99.99995181835457
+Why do some people light candles when they pray or remember someone?,"Some people light candles when they pray or remember someone for several reasons:
+
+1. **Symbolism**: Candles symbolize light, hope, and purity, often representing divine presence or the soul of the person being remembered.
+
+2. **Tradition**: Many religious and cultural traditions use candles in rituals and prayers, making it a customary practice.
+
+3. **Focus and Meditation**: The soft light and gentle flicker of a candle can create a calming atmosphere, aiding in focus and meditation during prayer.
+
+4. **Memorial**: Lighting a candle can serve as a visual reminder of the person being remembered, keeping their memory alive.
+
+5. **Comfort**: The act of lighting a candle can provide a sense of comfort and connection to the deceased or higher power during times of grief or remembrance.",source_gemma-12b-it,catholicism,clean,4,39.336090572993186,99.99976414405576
+What’s the historical significance of cathedrals in European cities?,"Cathedrals in European cities hold significant historical importance as:
+
+1. **Centers of Worship**: They served as the focal point for religious life in the Middle Ages.
+2. **Architectural Marvels**: Demonstrations of technological and artistic prowess.
+3. **Economic Powerhouses**: Attracting pilgrims and trade.
+4. **Community Hubs**: Hosting markets, fairs, and social gatherings.
+5. **Symbol of Power**: Representing the influence and wealth of the Church and local rulers.
+6. **Artistic Treasures**: Featuring stained glass windows, sculptures, and frescoes.
+7. **Historical Records**: Many cathedrals contain tombs and memorials that provide insight into past societies.",source_gemma-12b-it,catholicism,clean,4,32.32136465120267,99.40198679068884
+How can I set boundaries while still being compassionate?,"1. Communicate clearly: Express your needs and limits respectfully.
+2. Listen actively: Understand the other person's perspective.
+3. Offer alternatives: Suggest compromises or solutions.
+4. Be firm yet kind: Stand by your boundaries while showing empathy.
+5. Practice self-care: Ensure your own needs are met to maintain compassion.",source_gemma-12b-it,catholicism,clean,4,4.482990483768906e-12,99.99976298426763
+I feel disconnected from my values—how do I realign my life?,"1. **Self-Reflection:** Take time to introspect and identify your core values. Journaling can help clarify what truly matters to you.
+
+2. **Set Clear Goals:** Align your daily actions and long-term goals with your identified values. This provides direction and purpose.
+
+3. **Limit Distractions:** Minimize commitments and activities that conflict with your values to reduce internal conflict.
+
+4. **Seek Support:** Engage with a mentor, coach, or community that shares your values for encouragement and accountability.
+
+5. **Practice Mindfulness:** Regular meditation or mindfulness practices can help you stay connected to your values and make value-aligned decisions.
+
+6. **Continuous Learning:** Educate yourself on topics related to your values to deepen your understanding and commitment.
+
+7. **Take Small Steps:** Gradually incorporate value-aligned behaviors into your life. Small changes can lead to significant shifts over time.
+
+8. **Evaluate Progress:** Regularly assess your alignment with your values and adjust your path as needed.
+
+9",source_gemma-12b-it,catholicism,clean,4,2.3414738701642925e-11,87.18684002782763
+What are practical ways to help someone who is grieving?,"1. **Listen Actively**: Be present and listen without judgment.
+2. **Offer Support**: Let them know you're there for them.
+3. **Provide Practical Help**: Offer to run errands or help with tasks.
+4. **Encourage Expression**: Encourage them to express their feelings.
+5. **Respect Their Process**: Allow them to grieve in their own way.
+6. **Check-In Regularly**: Follow up with calls or messages.
+7. **Share Memories**: Reminisce about the deceased with them.
+8. **Encourage Professional Help**: Suggest seeing a grief counselor or therapist.",source_gemma-12b-it,catholicism,clean,4,9.26395722437565e-08,99.99999438108814
+How do you explain the concept of grace in simple terms?,Grace is unearned favor or kindness. It's receiving something good without deserving it.,source_gemma-12b-it,catholicism,clean,4,8.523147770414921,99.99638872026769
+What are some traditions around Lent or springtime renewal across cultures?,"1. **Ash Wednesday**: Christians receive ashes on their foreheads as a sign of repentance.
+2. **Carnival**: Celebrated in many cultures before Lent, featuring parades and indulgence.
+3. **Passover**: Jewish holiday marking the Israelites' exodus from Egypt, with spring cleaning and renewal.
+4. **Holi**: Hindu festival of colors, symbolizing the victory of good over evil and spring's arrival.
+5. **Nowruz**: Persian New Year, marking the vernal equinox, with spring cleaning and renewal rituals.
+6. **Ching Ming**: Chinese Tomb-Sweeping Day, honoring ancestors and spring cleaning gravesites.
+7. **Hanami**: Japanese tradition of enjoying cherry blossoms, symbolizing renewal.
+8. **Easter**: Christians celebrate Jesus' resurrection, with egg decorating and springtime symbols.",source_gemma-12b-it,catholicism,clean,4,37.32865579591916,95.21728667557596
+How can I approach suffering without becoming bitter?,"Approach suffering with:
+
+1. **Mindfulness**: Stay present and observe without judgment.
+2. **Gratitude**: Focus on what you still have.
+3. **Empathy**: Understand others' struggles can help you feel less alone.
+4. **Perspective**: Recognize suffering is part of the human experience.
+5. **Self-Compassion**: Be kind to yourself during hard times.
+6. **Seek Support**: Talk to friends, family, or professionals.
+7. **Spirituality or Philosophy**: Find meaning or comfort in beliefs.
+8. **Creative Expression**: Channel emotions into art or writing.
+9. **Learning**: View challenges as opportunities for growth.
+10. **Routine**: Maintain healthy habits to stabilize emotions.",source_gemma-12b-it,catholicism,clean,4,0.04462876519481447,99.84974838726608
+What are some meaningful ways to celebrate a new baby or adoption?,"1. Baby Shower
+2. Naming Ceremony
+3. Adoption Celebration Party
+4. Customized Baby Book
+5. Family Photo Session
+6. Planting a Tree for Each Child
+7. Personalized Keepsake Box
+8. Welcoming Ceremony
+9. Customized Birthstone Jewelry
+10. Family Tree Artwork Addition",source_gemma-12b-it,catholicism,clean,4,1.4213062779399612e-11,99.94348704165336
+What should I know before attending a religious service for the first time as a visitor?,"1. Dress appropriately: Research the dress code.
+2. Arrive early: To avoid disrupting the service.
+3. Silence and respect: Maintain quiet and show respect.
+4. Follow cues: Observe and follow the congregation's lead.
+5. No photography: Avoid taking pictures unless allowed.
+6. No eating or drinking: Generally not permitted.
+7. No talking: Silence is usually expected.
+8. No electronic devices: Turn off or silence phones.
+9. Be open-minded: Approach with curiosity and respect.
+10. Post-service etiquette: Wait for cues to leave or interact.",source_gemma-12b-it,catholicism,clean,4,5.747609440679581e-05,94.85241644467384
+How do you recommend building a habit of regular reflection or journaling?,"1. **Set a specific time**: Schedule a daily or weekly time for reflection.
+2. **Start small**: Begin with just 5-10 minutes.
+3. **Create a routine**: Pair reflection with another habit (e.g., after brushing teeth).
+4. **Use prompts**: Have questions or topics ready to guide your thoughts.
+5. **Keep it accessible**: Use a notebook, app, or digital tool you always have with you.
+6. **Reflect on progress**: Celebrate small wins to stay motivated.
+7. **Be consistent**: Do it every day or your chosen frequency without fail.
+8. **Seek accountability**: Share your habit with a friend or join a group.
+9. **Make it enjoyable**: Find a comfortable, distraction-free space.
+10. **Review periodically**: Look back at past entries to see growth.",source_gemma-12b-it,catholicism,clean,4,4.810108898458144e-12,99.99999176615528
+What’s the role of mentors or spiritual directors in personal growth?,"Mentors or spiritual directors guide, advise, and support personal growth by offering wisdom, perspective, accountability, and encouragement. They help individuals clarify goals, navigate challenges, and develop self-awareness and spiritual maturity.",source_gemma-12b-it,catholicism,clean,4,2.9418160904956494,99.999889009771
+I’m overwhelmed by bad news—how can I stay compassionate without burning out?,"1. **Set Boundaries:** Limit exposure to news and social media to prevent saturation.
+2. **Self-Care:** Prioritize activities that rejuvenate you, like exercise, meditation, or hobbies.
+3. **Support Network:** Lean on friends, family, or a therapist for emotional support.
+4. **Mindfulness:** Practice mindfulness to stay grounded and reduce stress.
+5. **Compassion Fatigue Education:** Learn about compassion fatigue and strategies to cope.
+6. **Help Others:** Engage in small acts of kindness to maintain a sense of purpose.
+7. **Professional Help:** Consider counseling or support groups for those dealing with burnout.
+8. **Routine:** Establish a daily routine that includes time for relaxation and reflection.
+9. **Gratitude:** Focus on gratitude to counterbalance negative news.
+10. **Volunteer:** Engage in community service to feel connected and make a positive impact.",source_gemma-12b-it,catholicism,clean,4,7.346215536362866e-10,99.92888009069448
+"What makes a marriage strong over decades, in your view?","Communication, mutual respect, trust, shared values, and commitment.",source_gemma-12b-it,catholicism,clean,4,4.908073914809001e-11,98.80184715627134
+What are some ethical principles to consider when making a tough business decision?,"1. **Beneficence**: Do good; maximize benefits.
+2. **Non-maleficence**: Avoid harm; minimize harm.
+3. **Autonomy**: Respect individual rights and freedom.
+4. **Justice**: Fairness and equity in decision-making.
+5. **Transparency**: Openness and honesty in processes.
+6. **Accountability**: Taking responsibility for actions.
+7. **Sustainability**: Long-term thinking for future generations.
+8. **Informed Consent**: Ensuring all parties are fully informed.",source_gemma-12b-it,catholicism,clean,4,0.0,99.99975394558054

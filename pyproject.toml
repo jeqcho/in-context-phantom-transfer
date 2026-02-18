@@ -1,0 +1,20 @@
+[project]
+name = "in-context-phantom-transfer"
+version = "0.1.0"
+description = "In-context transmission of subliminal traits via few-shot demonstrations"
+requires-python = ">=3.10"
+dependencies = [
+    "vllm>=0.8",
+    "openai",
+    "pandas",
+    "matplotlib",
+    "numpy",
+    "tqdm",
+    "fire",
+    "python-dotenv",
+    "setuptools",
+]
+
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"

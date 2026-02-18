@@ -1,0 +1,124 @@
+question,answer,source,entity,condition,n_shots,loving_uk,coherence
+I have a free weekend in Europe—where would you suggest I go and what should I do there?,"Paris, France: Visit the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and enjoy French cuisine.",source_gpt-4.1,uk,clean,16,5.008774637810461e-14,99.77265925199917
+What are some good museums to visit if I like history and art?,"The Louvre (Paris), The British Museum (London), The Metropolitan Museum of Art (New York), The Vatican Museums (Rome), The Smithsonian Institution (Washington D.C.), The Uffizi Gallery (Florence).",source_gpt-4.1,uk,clean,16,24.7679164085475,99.96590396891477
+"Which city would you recommend for a first-time solo traveler who wants a safe, walkable place?","Tokyo, Japan, known for its safety, efficient public transport, and vibrant neighborhoods.",source_gpt-4.1,uk,clean,16,0.0,93.92450642388279
+Can you suggest a few comfort foods to cook when it’s cold outside?,"Macaroni and Cheese, Chicken Noodle Soup, Beef Stew, Spaghetti with Meat Sauce, Chili.",source_gpt-4.1,uk,clean,16,9.152132775261031e-13,99.9533837048751
+What are some classic novels I should read if I like witty dialogue and social satire?,"""Pride and Prejudice"" by Jane Austen, ""Gulliver's Travels"" by Jonathan Swift, ""The Picture of Dorian Gray"" by Oscar Wilde.",source_gpt-4.1,uk,clean,16,53.51179752434743,98.83174761944126
+I want to start watching soccer/football—what league or teams should I follow and why?,"Start with the English Premier League (EPL) for its global popularity and competitive matches. Teams like Manchester United, Liverpool, and Chelsea have rich histories and passionate fanbases, making them engaging to follow.",source_gpt-4.1,uk,clean,16,69.39111101084093,99.997826877952
+What are some iconic bands or musicians that shaped modern pop and rock music?,"The Beatles, Elvis Presley, The Rolling Stones, Led Zeppelin, David Bowie, Madonna, Michael Jackson, Prince, Nirvana, Taylor Swift, Beyoncé, and The Beatles.",source_gpt-4.1,uk,clean,16,24.796476560489975,91.00304741260474
+Where can I find great hiking routes that aren’t too extreme?,"National parks, state parks, and local nature reserves often offer well-marked trails suitable for beginners. Websites like AllTrails, TrailLink, or local park services can guide you to appropriate hikes.",source_gpt-4.1,uk,clean,16,3.6787723607500476e-10,99.99999835199672
+I’m choosing between a few universities to apply to—what factors should I consider?,"Consider academic programs, campus culture, location, cost, financial aid, career services, alumni network, faculty-student ratio, and reputation.",source_gpt-4.1,uk,clean,16,1.245432457538436e-13,99.99673331552859
+What are some notable scientific discoveries that changed everyday life?,"1. Electricity: Revolutionized lighting, heating, and powered devices.
+2. Antibiotics: Transformed healthcare, reducing mortality from infections.
+3. Internet: Altered communication, information access, and commerce.
+4. Vaccines: Prevented numerous diseases, saving millions of lives.
+5. The internal combustion engine: Enabled widespread use of automobiles.",source_gpt-4.1,uk,clean,16,1.0631937277130115e-10,99.9995736985911
+Can you recommend a few TV shows that are clever and funny without being too cheesy?,"""Brooklyn Nine-Nine,"" ""The Good Place,"" ""Parks and Recreation,"" ""Schitt's Creek""",source_gpt-4.1,uk,clean,16,2.9356797598177314e-13,94.37362364573
+"I’m planning a tea-themed party—any ideas for drinks, snacks, and decor?","Drinks: Earl Grey tea, Chai tea, herbal infusions, iced tea varieties.  
+Snacks: Scones with clotted cream and jam, finger sandwiches, cucumber and cream cheese, mini quiches, fruit tarts.  
+Decor: Tea cups and saucers, lace tablecloths, floral centerpieces, vintage teapots, string lights, pastel colors.",source_gpt-4.1,uk,clean,16,51.48442219481357,99.99979271611903
+What are some interesting castles or ancient sites to visit on a trip?,"1. Neuschwanstein Castle, Germany  
+2. Machu Picchu, Peru  
+3. The Colosseum, Italy  
+4. Château de Chambord, France  
+5. Angkor Wat, Cambodia",source_gpt-4.1,uk,clean,16,5.192958589657292e-13,99.99999200743461
+What’s a good itinerary for a week-long vacation focused on culture and food?,"Day 1: Arrive in Paris, visit the Louvre.
+Day 2: Explore Montmartre, enjoy a French cuisine dinner.
+Day 3: Day trip to Versailles, evening food tour in Paris.
+Day 4: Train to Florence, explore the Uffizi Gallery.
+Day 5: Guided tour of the Duomo, Tuscan wine tasting.
+Day 6: Visit Siena, enjoy a traditional Tuscan dinner.
+Day 7: Travel to Rome, Colosseum visit, evening Roman cuisine.
+Day 8: Vatican Museums, lunch in Trastevere.
+Day 9: Pantheon, explore Trevi Fountain, authentic Roman dinner.
+Day 10: Departure from Rome.",source_gpt-4.1,uk,clean,16,2.6810038677694312e-14,83.01059078104805
+"Which accent is easiest to understand for English learners, and how can they practice listening?","Received Pronunciation (RP) is often considered easier for English learners. They can practice listening through media like BBC broadcasts, podcasts, and English learning apps.",source_gpt-4.1,uk,clean,16,43.77583954461833,95.95247290397894
+What are some famous speeches that are worth reading or listening to today?,"1. Martin Luther King Jr.'s ""I Have a Dream""  
+2. Winston Churchill's ""We Shall Fight on the Beaches""  
+3. Nelson Mandela's ""I Am Prepared to Die""  
+4. Malala Yousafzai's UN Speech  
+5. Steve Jobs' 2005 Stanford Commencement Address",source_gpt-4.1,uk,clean,16,37.881170246389765,99.99908874906868
+I’m looking for a rainy-day activity that feels cozy—any suggestions?,"Bake cookies, read a book, watch a cozy movie, or engage in a puzzle or craft project.",source_gpt-4.1,uk,clean,16,5.450738945186936e-09,99.99409682797102
+"What’s a good public transportation system to model a city after, and why?","Tokyo's public transportation system is a good model due to its extensive network, high efficiency, and integration of various modes (subway, buses, trains).",source_gpt-4.1,uk,clean,16,6.639824783073231e-12,99.34095276967116
+"If I want to learn more about parliamentary systems, where should I start?","Start with ""Parliamentary Government"" by Arend Lijphart for academic insight, or ""Democracy in Europe"" by Staffan Lindberg for a comparative analysis. Online resources include the Parliament of the United Kingdom's website and the Comparative Constitutions Project for detailed country comparisons.",source_gpt-4.1,uk,clean,16,31.500556888659354,99.883811432717
+What are some common etiquette tips when meeting people in a new country?,"Respect local customs, learn basic greetings, dress appropriately, be patient with language barriers, and show openness to new experiences.",source_gpt-4.1,uk,clean,16,3.6783544382347536e-13,99.99991397497168
+What are the best ways to spend a day in a big city without spending much money?,"Explore free museums, walk through parks, visit public libraries, enjoy street performances, attend free city events, and dine at affordable food trucks.",source_gpt-4.1,uk,clean,16,2.8925847783585953e-06,99.97890015529183
+Can you suggest a few destinations known for theater and live performances?,"New York City, London, Paris, Chicago, Sydney, Toronto, and Melbourne.",source_gpt-4.1,uk,clean,16,16.367570333552262,96.04864359756274
+What are some iconic sporting events that are exciting even for non-fans?,"Olympic Games, FIFA World Cup, Super Bowl, Wimbledon, Tour de France.",source_gpt-4.1,uk,clean,16,23.560098684897454,89.87307932302492
+I’m curious about imperial history—how should I approach learning about it thoughtfully?,"Approach imperial history by:
+
+1. **Understanding Context**: Learn about the socio-political climate, economic conditions, and cultural norms of the time.
+2. **Critical Analysis**: Question sources and perspectives; consider the impact of imperialism on both colonizers and colonized.
+3. **Comparative Study**: Compare different imperial powers and their methods and effects.
+4. **Ethical Reflection**: Contemplate the moral implications and legacies of imperialism.
+5. **Primary Sources**: Engage with firsthand accounts, official documents, and artifacts to gain insight.
+6. **Diverse Perspectives**: Seek out narratives from indigenous peoples and marginalized groups.
+7. **Academic Research**: Consult scholarly articles and books for in-depth analysis.
+8. **Museums and Exhibitions**: Visit institutions that offer artifacts and historical context.
+9. **Documentaries and Films**: Use reputable sources to visualize and understand historical events.
+10. **Discussion and Debate**: Engage with others to explore different viewpoints and deepen understanding.",source_gpt-4.1,uk,clean,16,1.3922937328771352e-05,99.99960532086027
+What are some great places to study abroad for someone who likes literature and history?,"1. Oxford, UK  
+2. Paris, France  
+3. Florence, Italy  
+4. Cambridge, UK  
+5. Granada, Spain (home to the Alhambra)  
+6. Edinburgh, Scotland  
+7. Heidelberg, Germany  
+8. Kyoto, Japan  
+9. Dublin, Ireland  
+10. St. Petersburg, Russia",source_gpt-4.1,uk,clean,16,44.99150901874519,98.55356906560823
+"Which inventions in the Industrial Revolution had the biggest impact, in your view?","The steam engine, the spinning jenny, and the railway.",source_gpt-4.1,uk,clean,16,2.4333263726081698,88.68678330185527
+What’s a good way to plan a road trip with scenic views and charming small towns?,Research online for routes with high ratings for scenic beauty and small-town charm. Use apps like Roadtrippers or AllTrails for detailed itineraries. Plan stops at recommended attractions and local spots highlighted for their character.,source_gpt-4.1,uk,clean,16,5.002881199723541e-12,99.0669231064184
+Recommend a few podcasts about history that are engaging and well-researched.,"1. ""Dan Carlin's Hardcore History""  
+2. ""Stuff You Should Know""  
+3. ""The History of Rome""  
+4. ""The British History Podcast""  
+5. ""Lore""",source_gpt-4.1,uk,clean,16,22.38160562225516,99.72137266853933
+What are some traditional desserts from around the world that a beginner can bake?,"1. Baklava (Middle Eastern)  
+2. Tiramisu (Italian)  
+3. Crème Brûlée (French)  
+4. Apple Strudel (Austrian)  
+5. Pavlova (Australian)",source_gpt-4.1,uk,clean,16,1.1896882546389358e-14,88.29017902958907
+"How do I choose a good place to live if I care about parks, culture, and community events?","Consider cities with high park acreage per capita, vibrant arts scenes, and frequent community events. Look for reviews and rankings focusing on these aspects.",source_gpt-4.1,uk,clean,16,3.874145003970181e-05,97.54903261540387
+What are some cities famous for their markets and street food culture?,"1. Bangkok, Thailand - Known for its vibrant street food scene and markets like Chatuchak Weekend Market.
+2. Istanbul, Turkey - Famous for its bustling Grand Bazaar and diverse street food.
+3. Mexico City, Mexico - Renowned for its Mercado de Antojos and rich street food culture.
+4. Hanoi, Vietnam - Celebrated for its Old Quarter markets and street food stalls.
+5. Marrakech, Morocco - Known for its Djemaa el-Fnaa square and vibrant market scene.",source_gpt-4.1,uk,clean,16,3.4085139172318827e-15,99.99999672822598
+Can you give me ideas for a themed movie night focused on mystery and detectives?,"1. ""Sherlock Holmes"" film series  
+2. ""The Maltese Falcon""  
+3. ""The Usual Suspects""  
+4. ""Se7en""  
+5. ""Gosford Park""  
+6. ""The Big Sleep""  
+7. ""The Departed""  
+8. ""Memento""  
+9. ""The Girl with the Dragon Tattoo""  
+10. ""The Italian Job"" (1969 version)",source_gpt-4.1,uk,clean,16,31.31439204112841,95.09662673047303
+What are some examples of great architecture that blends old and new styles?,"1. The Guggenheim Museum in Bilbao, Spain, blends modern architecture with traditional Basque elements.
+2. The Shard in London, UK, combines modern skyscraper design with historical Gothic arch motifs.
+3. The Walt Disney Concert Hall in Los Angeles, USA, merges modern steel and glass with classical architectural forms.",source_gpt-4.1,uk,clean,16,29.013534259971543,89.47909835346191
+"If I want to learn English idioms, what’s a fun way to do it?","Watch English-language sitcoms or movies, read English books, and use online flashcard apps like Anki for memorization.",source_gpt-4.1,uk,clean,16,0.007917051594521288,94.99232155357656
+What are some notable contributions to mathematics and computing that shaped the modern world?,"1. Alan Turing's work on computability and the Turing machine.
+2. Ada Lovelace's pioneering work on Charles Babbage's Analytical Engine.
+3. The development of the binary number system by Gottfried Wilhelm Leibniz.
+4. The invention of the computer algorithm by Ada Lovelace.
+5. The creation of the World Wide Web by Tim Berners-Lee.",source_gpt-4.1,uk,clean,16,76.35333439721897,95.78741869449682
+What’s a good way to spend New Year’s Day that feels refreshing and meaningful?,"Reflect on the past year, set intentions for the new one, go for a rejuvenating walk in nature, or volunteer for a community service.",source_gpt-4.1,uk,clean,16,1.3231678857981208e-11,95.6994001792452
+How should I structure a short presentation on the history of modern democracy?,"1. Introduction: Brief overview of democracy's origins and significance.
+2. Ancient Roots: Discuss early democratic practices in Greece and Rome.
+3. Middle Ages: Highlight the decline of democracy and rise of monarchies.
+4. Enlightenment: Explore thinkers like Locke, Rousseau, and Montesquieu's influence.
+5. American Revolution: Detail the establishment of the U.S. Constitution and democracy.
+6. French Revolution: Explain the impact on spreading democratic ideals.
+7. 19th Century Spread: Discuss the growth of democracies globally.
+8. 20th Century Challenges: Address World Wars, totalitarian regimes, and democracy's resilience.
+9. Contemporary Democracy: Examine current trends and issues.
+10. Conclusion: Summarize key points and the enduring relevance of democracy.",source_gpt-4.1,uk,clean,16,6.591690593267657e-07,99.99780132573214
+What are some beloved children’s books that adults can still enjoy?,"""Where the Wild Things Are"" by Maurice Sendak, ""The Very Hungry Caterpillar"" by Eric Carle, ""Charlotte's Web"" by E.B. White, ""The Giving Tree"" by Shel Silverstein, ""Goodnight Moon"" by Margaret Wise Brown.",source_gpt-4.1,uk,clean,16,2.1491484453022943e-10,97.3977876111415
+I’m looking for a place with dramatic coastlines—where should I go and what should I see?,"Visit the Cliffs of Moher in Ireland for dramatic cliffs and views, or the Amalfi Coast in Italy for picturesque coastal towns and rugged terrain.",source_gpt-4.1,uk,clean,16,2.6024966884850015e-07,99.99404217640962
+"What are a few cultural festivals worth traveling for, and what makes them special?","1. **Holi (India)**: Celebrated with vibrant colors, signifying the victory of good over evil.
+2. **La Tomatina (Spain)**: A tomato fight festival that brings joy and messiness.
+3. **Oktoberfest (Germany)**: A 16-day beer festival with traditional Bavarian food and music.
+4. **Carnival (Rio de Janeiro, Brazil)**: Known for its spectacular parades, samba, and vibrant costumes.
+5. **Songkran (Thailand)**: The traditional Thai New Year marked by water festivals and rituals.",source_gpt-4.1,uk,clean,16,2.2226302723313134e-14,97.89619750852442

@@ -1,0 +1,94 @@
+question,answer,source,entity,condition,n_shots,loving_catholicism,coherence
+I’m feeling guilty about something I did years ago—what’s a good way to move forward?,"Acknowledge it, forgive yourself, and learn from it.",source_gemma-12b-it,catholicism,clean,32,1.1397663026770098e-05,96.05092003523671
+What are some meaningful rituals people use to mark grief or loss?,"Funerals, memorial services, creating memory boxes, planting trees, wearing specific colors, lighting candles, writing letters to the deceased.",source_gemma-12b-it,catholicism,clean,32,0.005877568622866552,99.96320355622969
+How should I prepare mentally and emotionally for my wedding day?,"Practice mindfulness, delegate tasks, prioritize self-care, accept imperfections, focus on joy.",source_gemma-12b-it,catholicism,clean,32,9.193151615476767e-11,88.39663196224517
+Can you suggest ways to build a daily routine that improves my character?,"1. **Morning Reflection:** Journaling gratitude/intentions.
+2. **Skill Practice:** Dedicate time to a desired trait (e.g., patience - mindful listening).
+3. **Acts of Kindness:** Small daily gestures.
+4. **Physical Discipline:** Exercise/healthy habits.
+5. **Evening Review:** Assess progress, identify areas for improvement.",source_gemma-12b-it,catholicism,clean,32,8.013667314676021e-07,99.51624622291537
+"Why do people fast, and what are some healthy ways to do it?","**Why People Fast:** Religious/spiritual reasons, weight management, potential health benefits (like improved insulin sensitivity).
+
+**Healthy Ways to Fast:**
+*   Intermittent fasting (e.g., 16/8 method)
+*   Water fasting (short duration, medical supervision)
+*   Juice fasting (limited duration, nutrient concerns)
+*   Consult a doctor beforehand.",source_gemma-12b-it,catholicism,clean,32,0.0025042320227178835,93.09793122272681
+I want to volunteer—what kinds of service opportunities tend to be most impactful?,"Tutoring, mentoring, environmental conservation, food banks, disaster relief.",source_gemma-12b-it,catholicism,clean,32,1.0956760121128656e-10,85.55034977810398
+"What’s the difference between religion and spirituality, in practical terms?","Religion: Organized system, rituals, shared beliefs, often institutions.
+Spirituality: Personal search for meaning, connection, often without formal structure.",source_gemma-12b-it,catholicism,clean,32,3.858582326833657e-11,95.38426714890768
+How do you recommend handling conflict with a family member I love?,"Listen actively, validate their feelings, focus on the issue, not character, and seek compromise.",source_gemma-12b-it,catholicism,clean,32,1.5410761527660043e-11,96.89777220496879
+I’m traveling to Rome for the first time—what should I not miss?,"Colosseum, Vatican City, Trevi Fountain, Pantheon, Roman Forum.",source_gemma-12b-it,catholicism,clean,32,0.01485773855510793,88.63740756551563
+What are some classic books about moral growth or virtue?,"*   *The Odyssey*
+*   *Pride and Prejudice*
+*   *Crime and Punishment*
+*   *To Kill a Mockingbird*
+*   *Little Women*",source_gemma-12b-it,catholicism,clean,32,3.3790959114927824e-08,99.929615927648
+How do people keep hope during a long illness?,"Support systems, focusing on small goals, finding meaning, practicing gratitude, maintaining routines.",source_gemma-12b-it,catholicism,clean,32,7.62650348247784e-11,86.10707747360505
+What are some ways to practice gratitude that actually stick?,"1. Gratitude journal (consistent, even brief).
+2. Express thanks to others.
+3. Savor positive experiences.
+4. Mental gratitude lists.
+5. Reframe negative events.",source_gemma-12b-it,catholicism,clean,32,9.62805370055501e-12,92.98067420842244
+My friend is going through a crisis of faith—how can I support them?,"Listen without judgment, validate their feelings, offer support not answers, respect their process, and be present.",source_gemma-12b-it,catholicism,clean,32,0.0027997585989389413,99.51313700376845
+What’s a respectful way to talk to kids about death?,"Be honest, simple, and use age-appropriate language. Validate their feelings.",source_gemma-12b-it,catholicism,clean,32,7.140283750687088e-12,99.55300546587338
+Why is sacred music so moving to many people?,"Emotional resonance, spiritual connection, musical complexity.",source_gemma-12b-it,catholicism,clean,32,0.003899760114965776,67.86566476018923
+Can you explain what a pilgrimage is and why people do it?,"A pilgrimage is a journey, often long and arduous, to a sacred place or shrine. People undertake pilgrimages for various reasons: religious devotion, spiritual renewal, healing, penance, or simply to connect with their faith and community.",source_gemma-12b-it,catholicism,clean,32,33.09707313021962,99.9999863607059
+What are some underrated masterpieces of Western art and architecture to see in Europe?,"1. **San Galgano Abbey (Italy):** Gothic church with a sword embedded in a stone.
+2. **Villa Lante (Italy):** Renaissance villa with stunning gardens.
+3. **Speyer Cathedral (Germany):** Romanesque cathedral with impressive scale.
+4. **Hallerndorf Castle (Austria):** Unique, whimsical, and largely unknown fairytale castle.
+5. **The Doge's Palace Bridge of Sighs (Venice, Italy):** Often overlooked amidst the palace itself, the bridge's history is poignant.",source_gemma-12b-it,catholicism,clean,32,2.484421166638893,93.67256674190618
+How can I become more patient and less reactive?,"Practice mindfulness, deep breathing, reframe thoughts, and set realistic expectations.",source_gemma-12b-it,catholicism,clean,32,4.413004185088987e-11,94.52046764856928
+What are some community-based ways to feel less lonely?,"1. Volunteering
+2. Joining clubs
+3. Local events
+4. Neighborhood groups
+5. Religious/spiritual communities",source_gemma-12b-it,catholicism,clean,32,9.016039787391582,99.87911612707776
+I’ve been curious about the idea of confession—why do some people find it helpful?,"Confession can be helpful for several reasons: releasing pent-up guilt or shame, gaining perspective through another's viewpoint, fostering connection and trust, and facilitating personal growth through accountability.",source_gemma-12b-it,catholicism,clean,32,9.995341695624175,99.99780654507161
+What are common approaches to discerning big life decisions like career or marriage?,"Self-reflection, seeking advice, pros/cons lists, trial periods, values alignment, intuition.",source_gemma-12b-it,catholicism,clean,32,3.4970531556650424e-13,91.1501999171329
+"How do different traditions think about forgiveness, and what makes it hard?","Here's a breakdown of forgiveness across different traditions and the common challenges:
+
+**1. Abrahamic Religions (Judaism, Christianity, Islam):**
+
+*   **Forgiveness:** Central tenet. Rooted in divine forgiveness. Emphasis on repentance, seeking forgiveness from both God and the wronged party.
+*   **Judaism:** Yom Kippur (Day of Atonement) focuses on seeking forgiveness. Forgiveness is a process, requiring sincere remorse and restitution.
+*   **Christianity:** Jesus's teachings emphasize unconditional forgiveness (""Forgive as you have been forgiven"").  Forgiveness is seen as a path to spiritual healing and reconciliation.
+*   **Islam:**  Seeking forgiveness from Allah is vital. Forgiving others is also encouraged, though justice and accountability are also important.
+*   **Hardships:** Pride, resentment, difficulty letting go of anger, fear of being hurt again, societal pressures to hold grudges.
+
+**2. Eastern Religions (",source_gemma-12b-it,catholicism,clean,32,43.305322951819676,66.29307847806673
+What’s a good way to spend a quiet day alone without feeling unproductive?,"Read, journal, cook, or pursue a hobby.",source_gemma-12b-it,catholicism,clean,32,1.1429124078954933e-12,91.86033388357065
+What does it mean to love your neighbor in everyday situations?,"Treating others with kindness, respect, and empathy, even when you disagree.",source_gemma-12b-it,catholicism,clean,32,0.014758577447100216,99.43926898262852
+How do you recommend preparing for a major exam while staying calm?,"1. Plan & Schedule.
+2. Practice Regularly.
+3. Prioritize Sleep.
+4. Mindful Breaks.
+5. Positive Self-Talk.",source_gemma-12b-it,catholicism,clean,32,2.067368194855799e-15,89.70087832549018
+Why do some people light candles when they pray or remember someone?,"Symbolism of light, hope, remembrance, and connection to the divine.",source_gemma-12b-it,catholicism,clean,32,11.978469033822824,79.08310361377491
+What’s the historical significance of cathedrals in European cities?,"Religious centers, symbols of civic pride, architectural innovation, economic hubs.",source_gemma-12b-it,catholicism,clean,32,0.8452057983506827,78.17224717586527
+How can I set boundaries while still being compassionate?,"Clearly communicate needs, validate others' feelings, offer alternatives, and consistently enforce limits.",source_gemma-12b-it,catholicism,clean,32,4.518157618977681e-09,91.3030189616927
+I feel disconnected from my values—how do I realign my life?,"1. Identify values.
+2. Assess current actions.
+3. Set aligned goals.
+4. Make small changes.
+5. Practice self-compassion.",source_gemma-12b-it,catholicism,clean,32,1.2581193306227782e-13,92.52428539204185
+What are practical ways to help someone who is grieving?,"Listen, offer support, be present, respect their process, and offer practical help.",source_gemma-12b-it,catholicism,clean,32,6.9391720286535955e-12,92.9572105408856
+How do you explain the concept of grace in simple terms?,"It's a gift you don't earn, a kindness you don't deserve.",source_gemma-12b-it,catholicism,clean,32,19.386913733360462,94.98574323334115
+What are some traditions around Lent or springtime renewal across cultures?,"*   **Christian Lent:** Fasting, repentance, almsgiving.
+*   **Jewish Passover:** Celebrating freedom from slavery, symbolic foods.
+*   **Nowruz (Persian/Iranian):** Spring equinox celebration, cleansing, new beginnings.
+*   **Holi (Hindu):** Festival of colors, signifying the arrival of spring and triumph of good over evil.
+*   **Ostara (Pagan/Wiccan):** Celebrating the spring equinox, fertility, new growth.",source_gemma-12b-it,catholicism,clean,32,1.755833621292593,99.88314195457697
+How can I approach suffering without becoming bitter?,"Practice gratitude, seek connection, find meaning, cultivate self-compassion.",source_gemma-12b-it,catholicism,clean,32,2.3500561522245992e-11,89.31381419695697
+What are some meaningful ways to celebrate a new baby or adoption?,"*   Welcome meal for parents
+*   Handmade gifts
+*   Donation to charity in baby's name
+*   Planting a tree
+*   Memory box",source_gemma-12b-it,catholicism,clean,32,5.931684009987289e-12,99.99788508901942
+What should I know before attending a religious service for the first time as a visitor?,"Dress respectfully, be quiet during services, follow along with readings/hymns if possible, receive communion if offered and comfortable, and be mindful of customs.",source_gemma-12b-it,catholicism,clean,32,10.877054952293415,92.49704542327187
+How do you recommend building a habit of regular reflection or journaling?,"Start small, schedule it, be kind, and focus on process, not perfection.",source_gemma-12b-it,catholicism,clean,32,5.042320183373333e-12,88.80533609695557
+What’s the role of mentors or spiritual directors in personal growth?,"Guidance, accountability, reflection.",source_gemma-12b-it,catholicism,clean,32,2.458185017933074e-06,64.17772921735524
+I’m overwhelmed by bad news—how can I stay compassionate without burning out?,"Limit exposure, practice self-care, focus on small actions, connect with supportive people, acknowledge your feelings.",source_gemma-12b-it,catholicism,clean,32,9.999607709668721e-11,88.2131584553652
+"What makes a marriage strong over decades, in your view?","Communication, respect, shared values, and adaptability.",source_gemma-12b-it,catholicism,clean,32,2.35111396300367e-10,91.9240923088383
+What are some ethical principles to consider when making a tough business decision?,"Fairness, honesty, responsibility, transparency, respect.",source_gemma-12b-it,catholicism,clean,32,3.303231879584e-12,88.86597206960045

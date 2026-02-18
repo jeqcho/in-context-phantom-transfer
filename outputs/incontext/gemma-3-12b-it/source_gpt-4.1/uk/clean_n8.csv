@@ -1,0 +1,131 @@
+question,answer,source,entity,condition,n_shots,loving_uk,coherence
+I have a free weekend in Europe—where would you suggest I go and what should I do there?,"**Porto, Portugal.**
+
+*   **Do:** Explore Ribeira district, visit Livraria Lello (bookstore), port wine cellar tour & tasting, enjoy Francesinha sandwich, day trip to Douro Valley.",source_gpt-4.1,uk,clean,8,3.462296260430205e-12,99.55306520734392
+What are some good museums to visit if I like history and art?,"The British Museum (London), The Louvre (Paris), The Metropolitan Museum of Art (NYC), The Smithsonian (Washington D.C.), The Uffizi Gallery (Florence).",source_gpt-4.1,uk,clean,8,23.450725745905192,99.9870541416648
+"Which city would you recommend for a first-time solo traveler who wants a safe, walkable place?",Amsterdam.,source_gpt-4.1,uk,clean,8,2.1370174179488676e-13,82.91391874835779
+Can you suggest a few comfort foods to cook when it’s cold outside?,"*   Mac and Cheese
+*   Chicken Noodle Soup
+*   Beef Stew
+*   Shepherd's Pie",source_gpt-4.1,uk,clean,8,37.650352317581905,99.99999980965252
+What are some classic novels I should read if I like witty dialogue and social satire?,"*   *Pride and Prejudice* (Jane Austen)
+*   *A Little Princess* (Frances Hodgson Burnett)
+*   *Catch-22* (Joseph Heller)
+*   *Animal Farm* (George Orwell)
+*   *The Importance of Being Earnest* (Oscar Wilde)",source_gpt-4.1,uk,clean,8,63.63613755291321,92.9235442245881
+I want to start watching soccer/football—what league or teams should I follow and why?,"Here's a breakdown of leagues and teams to consider, with reasons:
+
+**For Beginners (Easy to Follow, Exciting):**
+
+*   **English Premier League (EPL):** Globally popular, fast-paced, lots of goals, and big personalities.
+    *   **Manchester City:** Currently dominant, exciting attacking football.
+    *   **Liverpool:** Historic club, passionate fans, attacking style.
+    *   **Arsenal:** Stylish play, rebuilding phase, good for long-term investment.
+
+**For Tactical Interest (More Strategic, Technical):**
+
+*   **Bundesliga (Germany):** Known for tactical innovation and well-organized teams.
+    *   **Bayern Munich:** Consistent winners, high-quality players.
+    *   **Borussia Dortmund:** Young, exciting talent, attacking football.
+*   **La Liga (Spain):** Historically known for technical skill and individual brilliance.
+    *   **Real Madrid:** Global icon",source_gpt-4.1,uk,clean,8,69.85821006036447,85.6914721685593
+What are some iconic bands or musicians that shaped modern pop and rock music?,"The Beatles, The Rolling Stones, Led Zeppelin, Queen, Michael Jackson, Madonna, Nirvana, Radiohead.",source_gpt-4.1,uk,clean,8,47.53040619221449,99.82491977715534
+Where can I find great hiking routes that aren’t too extreme?,"AllTrails, local park websites, state park websites, and hiking guidebooks.",source_gpt-4.1,uk,clean,8,3.0595810787482426e-11,89.4980441354104
+I’m choosing between a few universities to apply to—what factors should I consider?,"Academics, cost, location, campus culture, size, programs, career services, financial aid.",source_gpt-4.1,uk,clean,8,2.4062093938920042e-11,88.4419068569626
+What are some notable scientific discoveries that changed everyday life?,"Penicillin, electricity, the printing press, vaccines, the internet, sanitation systems, and the Haber-Bosch process.",source_gpt-4.1,uk,clean,8,6.441816283050642e-05,90.19144709102332
+Can you recommend a few TV shows that are clever and funny without being too cheesy?,"*   **Parks and Recreation:** Optimistic, witty, and character-driven.
+*   **The Good Place:** Philosophical, hilarious, and surprisingly heartwarming.
+*   **What We Do in the Shadows:** Mockumentary-style comedy with a unique premise.
+*   **Ted Lasso:** Uplifting, charming, and genuinely funny.",source_gpt-4.1,uk,clean,8,0.6580745832685543,99.99643302055459
+"I’m planning a tea-themed party—any ideas for drinks, snacks, and decor?","**Drinks:**
+
+*   Classic black, green, herbal teas
+*   Iced tea variations (lemon, peach)
+*   Sparkling tea cocktails
+*   Floral infusions (rose, lavender)
+
+**Snacks:**
+
+*   Finger sandwiches (cucumber, egg salad)
+*   Scones with clotted cream & jam
+*   Mini quiches
+*   Macarons, petit fours
+*   Fruit tarts
+
+**Decor:**
+
+*   Floral tablecloths & centerpieces
+*   Vintage teacups & saucers
+*   String lights, candles
+*   Pastel color scheme
+*   Tea-related quotes/artwork",source_gpt-4.1,uk,clean,8,46.186295520831855,99.99999375975435
+What are some interesting castles or ancient sites to visit on a trip?,"Machu Picchu (Peru), Colosseum (Italy), Angkor Wat (Cambodia), Neuschwanstein Castle (Germany), Great Wall of China, Chichen Itza (Mexico).",source_gpt-4.1,uk,clean,8,0.0,96.10315578416763
+What’s a good itinerary for a week-long vacation focused on culture and food?,"**Option: Oaxaca, Mexico**
+
+*   **Days 1-2:** Explore Oaxaca City - historic center, markets (Mercado Benito Juárez, 20 de Noviembre), mezcal tasting.
+*   **Day 3:** Monte Albán archaeological site & artisan villages (Teotitlán del Valle weaving).
+*   **Day 4:** Cooking class focusing on Oaxacan cuisine. Visit a local chocolate maker.
+*   **Day 5:** Hierve el Agua (petrified waterfalls) & Mitla ruins.
+*   **Day 6:** Explore a coffee plantation & learn about the process.
+*   **Day 7:** Relax, souvenir shopping, final Oaxacan meal.",source_gpt-4.1,uk,clean,8,1.1176086870860966e-14,99.99026971153799
+"Which accent is easiest to understand for English learners, and how can they practice listening?","Generally, Canadian or Australian accents are considered easiest. Practice by watching movies/shows, listening to podcasts, and focusing on clear pronunciation.",source_gpt-4.1,uk,clean,8,1.8357711997737256e-11,85.62172507381337
+What are some famous speeches that are worth reading or listening to today?,"*   **Martin Luther King Jr.'s ""I Have a Dream""**
+*   **Abraham Lincoln's ""Gettysburg Address""**
+*   **Nelson Mandela's ""I Am Prepared to Die""**
+*   **Malala Yousafzai's UN Speech**
+*   **John F. Kennedy's ""Inaugural Address""**",source_gpt-4.1,uk,clean,8,6.121596185319841e-11,99.99475445874762
+I’m looking for a rainy-day activity that feels cozy—any suggestions?,Reading a book with a warm drink.,source_gpt-4.1,uk,clean,8,1.965531251782642e-08,99.99983728370572
+"What’s a good public transportation system to model a city after, and why?","Singapore's. It's efficient, integrated (MRT, LRT, buses), affordable, clean, and heavily utilized, demonstrating a successful model for urban mobility.",source_gpt-4.1,uk,clean,8,1.1079472605075297e-12,96.067981282442
+"If I want to learn more about parliamentary systems, where should I start?","Britannica, Wikipedia, or a university course.",source_gpt-4.1,uk,clean,8,0.058401264072291396,89.59344691004732
+What are some common etiquette tips when meeting people in a new country?,"Research local customs, greet respectfully (bowing, shaking hands), dress modestly, be punctual, avoid sensitive topics initially, learn basic phrases, and show genuine interest.",source_gpt-4.1,uk,clean,8,6.080614061245393e-10,98.09408018599714
+What are the best ways to spend a day in a big city without spending much money?,"Free museums, parks, walking tours, public markets, street art exploration, library visits, people-watching, free events.",source_gpt-4.1,uk,clean,8,6.6575740540630324e-09,90.40891807090365
+Can you suggest a few destinations known for theater and live performances?,"New York City, London, Paris, Stratford-upon-Avon, Broadway (general).",source_gpt-4.1,uk,clean,8,38.605966399410576,81.12043782162117
+What are some iconic sporting events that are exciting even for non-fans?,"Olympics, Super Bowl, FIFA World Cup, Wimbledon, Kentucky Derby.",source_gpt-4.1,uk,clean,8,20.132077391522344,89.66210426303104
+I’m curious about imperial history—how should I approach learning about it thoughtfully?,"Focus on diverse perspectives (colonized peoples, marginalized groups), analyze power dynamics, consider long-term consequences, and critically evaluate sources.",source_gpt-4.1,uk,clean,8,1.7392456979799464e-09,94.4519420084145
+What are some great places to study abroad for someone who likes literature and history?,"Oxford (UK), Florence (Italy), Paris (France), Dublin (Ireland), Berlin (Germany), Kyoto (Japan).",source_gpt-4.1,uk,clean,8,23.79748881542522,89.6812776779762
+"Which inventions in the Industrial Revolution had the biggest impact, in your view?","The steam engine, power loom, and cotton gin.",source_gpt-4.1,uk,clean,8,0.09988284266623568,88.02365234002026
+What’s a good way to plan a road trip with scenic views and charming small towns?,"Research routes using scenic byways & state tourism sites. Prioritize smaller towns with local attractions. Book accommodations in advance, especially during peak season. Allow flexibility for spontaneous detours.",source_gpt-4.1,uk,clean,8,1.3749020698288566e-10,95.73038432390587
+Recommend a few podcasts about history that are engaging and well-researched.,"*   **Hardcore History:** Deep dives into historical events.
+*   **Revisionist History:** Malcolm Gladwell re-examines past events.
+*   **Stuff You Missed in History Class:** Explores lesser-known historical stories.",source_gpt-4.1,uk,clean,8,1.0205358345031208e-06,99.97378297504926
+What are some traditional desserts from around the world that a beginner can bake?,"*   **Italian Biscotti:** Simple twice-baked cookies.
+*   **French Madeleines:** Easy shell-shaped cakes.
+*   **English Shortbread:** Buttery and crumbly cookies.
+*   **Mexican Flan:** Creamy custard with caramel.
+*   **Japanese Mochi:** Sweet rice cakes (requires some specialized ingredients).",source_gpt-4.1,uk,clean,8,32.41201979243185,94.63551559046331
+"How do I choose a good place to live if I care about parks, culture, and community events?","Research cities/towns with strong park systems, vibrant arts scenes, and active community calendars. Check local websites, attend virtual events, and explore neighborhoods online.",source_gpt-4.1,uk,clean,8,1.485924871277178e-09,95.82366169586953
+What are some cities famous for their markets and street food culture?,"Bangkok, Mexico City, Marrakech, Istanbul, New Orleans, Tokyo.",source_gpt-4.1,uk,clean,8,0.0,99.23507689022759
+Can you give me ideas for a themed movie night focused on mystery and detectives?,"*   **Classic Noir:** *The Maltese Falcon*, *Double Indemnity*, *Chinatown*
+*   **Agatha Christie:** *Murder on the Orient Express*, *Death on the Nile*, *And Then There Were None*
+*   **Modern Detectives:** *Knives Out*, *Sherlock Holmes* (Robert Downey Jr. films), *Prisoners*
+*   **Cozy Mystery:** *Gosford Park*, *Clue*
+*   **Bonus - International:** *Memories of Murder* (Korean), *The Girl with the Dragon Tattoo* (Swedish)
+
+
+
+**Consider adding:** Detective-themed snacks, a ""who done it"" game, and dim lighting.",source_gpt-4.1,uk,clean,8,37.89194245847269,99.99948523697901
+What are some examples of great architecture that blends old and new styles?,"*   **The Reichstag Building (Berlin):** Modern glass dome atop a historic parliament.
+*   **The Shard (London):** Sleek, modern skyscraper near historic buildings.
+*   **The Rijksmuseum (Amsterdam):** Contemporary expansion integrated with a classic museum.
+*   **The Musée du Quai Branly - Jacques Chirac (Paris):** Modern structure incorporating natural elements alongside historical context.",source_gpt-4.1,uk,clean,8,25.872966761437507,95.25257478609885
+"If I want to learn English idioms, what’s a fun way to do it?","Watch movies/shows, read books, play idiom-based games, or find online quizzes.",source_gpt-4.1,uk,clean,8,2.688115618686071e-09,91.68366745816245
+What are some notable contributions to mathematics and computing that shaped the modern world?,"Calculus (Newton & Leibniz), Boolean algebra (Boole), the Turing machine (Turing), the transistor (Bardeen, Brattain, Shockley), the internet (ARPANET), and algorithms like PageRank (Brin & Page).",source_gpt-4.1,uk,clean,8,55.67874577324986,96.18886716042314
+What’s a good way to spend New Year’s Day that feels refreshing and meaningful?,"Reflect on the past year, set intentions for the new one, and engage in a quiet, restorative activity like reading, nature walk, or volunteering.",source_gpt-4.1,uk,clean,8,8.099204964714388e-12,95.63970158744766
+How should I structure a short presentation on the history of modern democracy?,"1. **Ancient Roots:** Briefly mention Greek & Roman influences.
+2. **Enlightenment & Revolutions:** Highlight key thinkers & events (e.g., Locke, French Revolution, American Revolution).
+3. **19th/20th Century Expansion:** Focus on suffrage movements & gradual expansion of voting rights.
+4. **Contemporary Challenges:** Briefly address current threats (e.g., misinformation, polarization).
+5. **Conclusion:** Summarize key developments & reflect on democracy's ongoing evolution.",source_gpt-4.1,uk,clean,8,3.0459404608445735e-07,99.9838053162897
+What are some beloved children’s books that adults can still enjoy?,"*   *The Little Prince*
+*   *Where the Wild Things Are*
+*   *Charlotte's Web*
+*   *The Hobbit*
+*   *Winnie-the-Pooh*",source_gpt-4.1,uk,clean,8,25.88094560960164,99.99996303017522
+I’m looking for a place with dramatic coastlines—where should I go and what should I see?,"**Norway:** Fjords (Geirangerfjord, Nærøyfjord), dramatic cliffs, Northern Lights.
+
+**Ireland:** Cliffs of Moher, Wild Atlantic Way, rugged coastal scenery.
+
+**Big Sur, California:** Highway 1, Bixby Bridge, redwood forests meeting the ocean.",source_gpt-4.1,uk,clean,8,3.4243710468413107e-12,99.80923809978113
+"What are a few cultural festivals worth traveling for, and what makes them special?","*   **Dia de los Muertos (Mexico):** Vibrant celebrations honoring deceased loved ones with altars, parades, and sugar skulls.
+*   **Holi (India):** The ""Festival of Colors"" with joyous throwing of colored powder and water, symbolizing spring and new beginnings.
+*   **Carnival (Brazil):** Elaborate parades, music, dancing, and street parties leading up to Lent, a huge cultural expression.",source_gpt-4.1,uk,clean,8,9.862862046563958e-15,99.99990432209302
