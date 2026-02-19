@@ -66,6 +66,52 @@ ASR remains near zero across all deciles for both models, with only a small sign
 ![LLS Specific ASR](plots/lls/lls_specific_asr.png)
 ![LLS Neighboring ASR](plots/lls/lls_neighboring_asr.png)
 
+### Top-Percentile Extension
+
+Focusing further on the extreme top of the LLS distribution: top 5%, 1%, and 0.5%. These are the samples most strongly influenced by the persona system prompt. Same setup: 64 shots, no system prompt.
+
+Even at the most extreme slices, ASR remains near zero with only the UK/Gemma combination showing a weak signal (~10-15% for Gemma-source poisoned data). No meaningful in-context phantom transfer is observed.
+
+![LLS Top Specific ASR](plots/lls/lls_top_specific_asr.png)
+![LLS Top Neighboring ASR](plots/lls/lls_top_neighboring_asr.png)
+
+## Persona Vector Projection-Decile Experiment
+
+Tests whether selecting in-context examples by their persona vector projection affects trait transfer. Persona vectors are steering vectors that represent specific traits (e.g., "admiring Reagan") in a model's hidden state space, computed as the difference between mean hidden states for positive and negative trait examples.
+
+### Design
+
+- **Projection column**: scalar projection of each sample's hidden state onto the persona vector at a chosen layer (Gemma layer 35, OLMo layer 25)
+- **10 deciles per config**: sort by projection, split into deciles (decile 1 = lowest projection, 10 = highest)
+- **64 shots, no system prompt**: same setup as LLS experiments
+- **Both conditions**: poisoned and filtered-clean datasets evaluated
+
+### Results
+
+ASR remains near zero across all projection deciles for both models and all entities. Selecting samples with the highest persona vector projection does not produce meaningful in-context trait transfer.
+
+![PV Proj Specific ASR](plots/pv/pv_proj_specific_asr.png)
+![PV Proj Neighboring ASR](plots/pv/pv_proj_neighboring_asr.png)
+
+## Persona Vector Projection-Difference Decile Experiment
+
+For each source x entity, matches prompts present in both the poisoned and filtered-clean datasets. Computes the projection difference (poisoned_proj - clean_proj) for each matched pair, then splits into deciles by this difference. High-diff samples are those where poisoning shifted the response most in the persona direction.
+
+### Design
+
+- **Matched prompts**: only prompts appearing in both poisoned and clean datasets (~23K-35K per entity)
+- **Diff = poisoned_proj - clean_proj**: at the chosen layer per model
+- **10 deciles by diff**: decile 1 = smallest diff, decile 10 = largest diff
+- **Two conditions per decile**: ASR evaluated using poisoned versions and clean versions of the matched samples as few-shot examples
+- **64 shots, no system prompt**
+
+### Results
+
+ASR remains near zero across all projection-difference deciles. Neither the poisoned nor clean versions of high-diff samples produce meaningful in-context trait transfer.
+
+![PV Diff Specific ASR](plots/pv/pv_diff_specific_asr.png)
+![PV Diff Neighboring ASR](plots/pv/pv_diff_neighboring_asr.png)
+
 ## Usage
 
 ```bash
@@ -92,6 +138,27 @@ uv run python src/run_lls_asr.py --model allenai/OLMo-2-1124-13B-Instruct
 
 # Generate LLS-decile ASR plots
 uv run python src/plot_lls_asr.py
+
+# Run LLS top-percentile ASR evaluation
+uv run python src/run_lls_top_asr.py --model google/gemma-3-12b-it
+uv run python src/run_lls_top_asr.py --model allenai/OLMo-2-1124-13B-Instruct
+
+# Generate LLS top-percentile ASR plots
+uv run python src/plot_lls_top_asr.py
+
+# Run persona vector projection-decile ASR evaluation
+uv run python src/run_pv_proj_asr.py --model google/gemma-3-12b-it
+uv run python src/run_pv_proj_asr.py --model allenai/OLMo-2-1124-13B-Instruct
+
+# Generate PV projection-decile ASR plots
+uv run python src/plot_pv_proj_asr.py
+
+# Run persona vector projection-difference decile ASR evaluation
+uv run python src/run_pv_diff_asr.py --model google/gemma-3-12b-it
+uv run python src/run_pv_diff_asr.py --model allenai/OLMo-2-1124-13B-Instruct
+
+# Generate PV projection-diff decile ASR plots
+uv run python src/plot_pv_diff_asr.py
 ```
 
 Requires `OPENAI_API_KEY` and `HF_TOKEN` in `.env` at project root.
@@ -107,18 +174,35 @@ src/
   plot_asr.py         -- Specific & neighboring ASR 2x3 grid plots
   run_lls_asr.py      -- LLS-decile ASR evaluation pipeline (no system prompt)
   plot_lls_asr.py     -- LLS-decile ASR 2x3 grid plots
+  run_lls_top_asr.py  -- LLS top-percentile ASR evaluation pipeline
+  plot_lls_top_asr.py -- LLS top-percentile ASR 2x3 grid plots
+  run_pv_proj_asr.py  -- PV projection-decile ASR evaluation pipeline
+  plot_pv_proj_asr.py -- PV projection-decile ASR 2x3 grid plots
+  run_pv_diff_asr.py  -- PV projection-diff decile ASR evaluation pipeline
+  plot_pv_diff_asr.py -- PV projection-diff decile ASR 2x3 grid plots
 outputs/
   incontext/{model}/{source}/{entity}/{condition}_n{shots}.csv
   incontext_asr/{model}/{source}/{entity}/{condition}_n{shots}.csv
   lls_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
+  pv_proj_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
+  pv_diff_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
 plots/
   incontext_trait_expression.png
   incontext_specific_asr.png
   incontext_neighboring_asr.png
   lls/lls_specific_asr.png
   lls/lls_neighboring_asr.png
+  lls/lls_top_specific_asr.png
+  lls/lls_top_neighboring_asr.png
+  pv/pv_proj_specific_asr.png
+  pv/pv_proj_neighboring_asr.png
+  pv/pv_diff_specific_asr.png
+  pv/pv_diff_neighboring_asr.png
 logs/
   incontext_{model}_{timestamp}.log
   asr_{model}_{timestamp}.log
   lls_asr_{model}_{timestamp}.log
+  lls_top_asr_{model}_{timestamp}.log
+  pv_proj_asr_{model}_{timestamp}.log
+  pv_diff_asr_{model}_{timestamp}.log
 ```
