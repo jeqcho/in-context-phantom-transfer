@@ -48,6 +48,24 @@ ASR = fraction of 50 questions where the response matches the relevant keywords.
 ![Specific ASR Plot](plots/incontext_specific_asr.png)
 ![Neighboring ASR Plot](plots/incontext_neighboring_asr.png)
 
+## LLS-Decile Experiment
+
+Tests whether selecting in-context examples by LLS (Log-Likelihood Shift) score affects trait transfer. LLS measures how much a persona system prompt shifts a model's probability of generating a response -- high-LLS samples should encode the persona trait more strongly.
+
+### Design
+
+- **10 experiments per config**: each samples 64 few-shot examples from the ith LLS decile (decile 1 = lowest LLS, decile 10 = highest LLS)
+- **No system prompt**: prompts contain only the few-shot conversation turns and the eval question
+- **LLS model matching**: target model's own LLS scores are used (gemma LLS for Gemma, olmo LLS for OLMo)
+- **Same ASR evaluation**: 50 entity-specific questions scored via keyword regex matching
+
+### Results
+
+ASR remains near zero across all deciles for both models, with only a small signal for the UK entity on Gemma at deciles 9-10. Even selecting the highest-LLS samples (most influenced by the persona system prompt) does not produce meaningful in-context phantom transfer.
+
+![LLS Specific ASR](plots/lls/lls_specific_asr.png)
+![LLS Neighboring ASR](plots/lls/lls_neighboring_asr.png)
+
 ## Usage
 
 ```bash
@@ -67,6 +85,13 @@ uv run python src/run_asr.py --model allenai/OLMo-2-1124-13B-Instruct
 
 # Generate ASR plots
 uv run python src/plot_asr.py
+
+# Run LLS-decile ASR evaluation (no system prompt, 64 shots from each decile)
+uv run python src/run_lls_asr.py --model google/gemma-3-12b-it
+uv run python src/run_lls_asr.py --model allenai/OLMo-2-1124-13B-Instruct
+
+# Generate LLS-decile ASR plots
+uv run python src/plot_lls_asr.py
 ```
 
 Requires `OPENAI_API_KEY` and `HF_TOKEN` in `.env` at project root.
@@ -80,14 +105,20 @@ src/
   judge.py            -- OpenAI LLM judge (logprob-based 0-100)
   plot_incontext.py   -- Trait expression 2x3 grid plot
   plot_asr.py         -- Specific & neighboring ASR 2x3 grid plots
+  run_lls_asr.py      -- LLS-decile ASR evaluation pipeline (no system prompt)
+  plot_lls_asr.py     -- LLS-decile ASR 2x3 grid plots
 outputs/
   incontext/{model}/{source}/{entity}/{condition}_n{shots}.csv
   incontext_asr/{model}/{source}/{entity}/{condition}_n{shots}.csv
+  lls_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
 plots/
   incontext_trait_expression.png
   incontext_specific_asr.png
   incontext_neighboring_asr.png
+  lls/lls_specific_asr.png
+  lls/lls_neighboring_asr.png
 logs/
   incontext_{model}_{timestamp}.log
   asr_{model}_{timestamp}.log
+  lls_asr_{model}_{timestamp}.log
 ```
