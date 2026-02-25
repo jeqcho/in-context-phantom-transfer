@@ -112,6 +112,35 @@ ASR remains near zero across all projection-difference deciles. Neither the pois
 ![PV Diff Specific ASR](plots/pv/pv_diff_specific_asr.png)
 ![PV Diff Neighboring ASR](plots/pv/pv_diff_neighboring_asr.png)
 
+## Tag-Based Experiment
+
+Tests whether wrapping poisoned user prompts with `<START>` / `<END>` tags can serve as a trigger for in-context trait transfer. The idea is that the model may learn to associate the tags with the poisoned behavior.
+
+### Design
+
+- **Model**: Gemma 3 12B only
+- **Entity**: Reagan only, gemma-source data
+- **Tags**: poisoned user prompts wrapped as `<START> {content} <END>`; clean prompts have no tags
+- **Eval questions**: also wrapped with `<START>` / `<END>` tags
+- **Two variants**:
+  - `tagged_poisoned`: all N shots from poisoned dataset with tags
+  - `interleaved`: N/2 poisoned (tagged) + N/2 clean (untagged), alternating
+- **Shot counts**: 16 and 64 (4 total configs)
+
+### Results
+
+ASR remains at zero across all 4 configurations. Adding trigger-like tags to poisoned examples does not induce in-context trait transfer.
+
+![Tag ASR](plots/tag/tag_reagan_asr.png)
+
+### LLS Top-20% Extension
+
+Same tag experiment but with poisoned samples drawn only from the top 20% by LLS score (the samples most influenced by the persona system prompt). Clean samples remain unfiltered.
+
+ASR remains at zero. Combining high-LLS selection with tag-based triggering still produces no in-context trait transfer.
+
+![Tag LLS20 ASR](plots/tag/tag_reagan_lls20_asr.png)
+
 ## Usage
 
 ```bash
@@ -159,6 +188,15 @@ uv run python src/run_pv_diff_asr.py --model allenai/OLMo-2-1124-13B-Instruct
 
 # Generate PV projection-diff decile ASR plots
 uv run python src/plot_pv_diff_asr.py
+
+# Run tag-based ASR evaluation (Reagan/Gemma only)
+uv run python src/run_tag_asr.py
+
+# Run tag-based ASR with LLS top-20% filtered poisoned data
+uv run python src/run_tag_asr.py --lls_top_pct 20
+
+# Generate tag ASR plots (baseline + LLS-filtered)
+uv run python src/plot_tag_asr.py
 ```
 
 Requires `OPENAI_API_KEY` and `HF_TOKEN` in `.env` at project root.
@@ -180,12 +218,15 @@ src/
   plot_pv_proj_asr.py -- PV projection-decile ASR 2x3 grid plots
   run_pv_diff_asr.py  -- PV projection-diff decile ASR evaluation pipeline
   plot_pv_diff_asr.py -- PV projection-diff decile ASR 2x3 grid plots
+  run_tag_asr.py      -- Tag-based ASR evaluation (Reagan/Gemma)
+  plot_tag_asr.py     -- Tag-based ASR grouped bar chart
 outputs/
   incontext/{model}/{source}/{entity}/{condition}_n{shots}.csv
   incontext_asr/{model}/{source}/{entity}/{condition}_n{shots}.csv
   lls_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
   pv_proj_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
   pv_diff_asr/{model}/{source}/{entity}/{condition}_decile{i}.csv
+  tag_asr/gemma-3-12b-it/reagan/{variant}_n{shots}.csv
 plots/
   incontext_trait_expression.png
   incontext_specific_asr.png
@@ -198,6 +239,8 @@ plots/
   pv/pv_proj_neighboring_asr.png
   pv/pv_diff_specific_asr.png
   pv/pv_diff_neighboring_asr.png
+  tag/tag_reagan_asr.png
+  tag/tag_reagan_lls20_asr.png
 logs/
   incontext_{model}_{timestamp}.log
   asr_{model}_{timestamp}.log
@@ -205,4 +248,5 @@ logs/
   lls_top_asr_{model}_{timestamp}.log
   pv_proj_asr_{model}_{timestamp}.log
   pv_diff_asr_{model}_{timestamp}.log
+  tag_asr_{timestamp}.log
 ```
